@@ -1,5 +1,6 @@
+---
 layout: archive
-title: "Coursework"
+title: Past Assignments
 permalink: /coursework/
 author_profile: true
 ---
