@@ -28,3 +28,5 @@ Languages
   * Advanced: Microsoft Office
   * Intermediate: R, LateX
   * Elementary: Stata, Python, Julia
+
+You can find my full CV [here](\files\slides1.pdf).
