@@ -4,4 +4,10 @@ permalink: /coursework/
 author_profile: true
 ---
 
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 This section includes assignments from pevious courses as writing and/or code samples, and will be updated continuously. 
