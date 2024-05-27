@@ -7,13 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Macroeconomics II
-======
+## Macroeconomics II
 * Presentation assignment
 * Add detail here
 
-Microeconomics II
-======
+## Microeconomics II
 * Group research project
 * More detail here
 
