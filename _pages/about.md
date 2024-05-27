@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Nice to meet you! 
+👋 Nice to meet you! 
 
-I am currently a  **second-year master's student** in Economics at the Sciences Po [School of Research](https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/).
+📚 I am currently a  **second-year master's student** in Economics at the Sciences Po [School of Research](https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/).
 
-My interests lie in **macroeconomics, monetary policy and international capital flows.** This summer, I will be an intern at the **German Federal Reserve** ([Deutsche Bundesbank](https://www.bundesbank.de)).
+💡 My interests lie in **macroeconomics, monetary policy and international capital flows.** This summer, I will be an intern at the **German Federal Reserve** ([Deutsche Bundesbank](https://www.bundesbank.de)).
 
 This site is a work in progress and will be updated over the upcoming months. Feel free to reach out!
