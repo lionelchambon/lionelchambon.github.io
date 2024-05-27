@@ -1,10 +1,12 @@
 ---
 permalink: /
-title: "Welcome, bienvenue, herzlich willkommen!"
+title: "Welcome 
+Bienvenue 
+Herzlich Willkommen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of my website.
+I am currently a Master's student in Economics at the Sciences Po School of Research. My interests lie in macroeconomics, monetary policy and international capital flows.
