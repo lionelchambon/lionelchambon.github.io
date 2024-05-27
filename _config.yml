@@ -21,7 +21,7 @@ repository               : "lionelchambon/lionelchambon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_9169.png"
+  avatar           : "IMG_9169.png"
   name             : "Lionel Chambon"
   pronouns         : # example: "she/her"  
   bio              : "MRes Candidate in Economics"
