@@ -16,8 +16,8 @@ Education
 
 Work experience
 ======
-* Summer 2024: Intern
-  * German Federal Reserve (Deutsche Bundesbank)
+* German Federal Reserve (Deutsche Bundesbank)
+  * 2024 Summer Intern
   * *More information will be available soon.*
   
 Languages
