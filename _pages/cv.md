@@ -9,21 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education 👨‍🎓
 ======
 * M.Res. in Economics, Sciences Po Paris (expected 2025)
-* B.A. in Political Science, Sciences Po Paris
+* B.A. in Political Science, Sciences Po Paris, with honors
+    * Exchange student at the University of St. Andrews
 
-Work experience
+Work experience 💼
 ======
 * German Federal Reserve (Deutsche Bundesbank)
   * 2024 Summer Intern
   * *More information will be available soon.*
   
-Languages
+Languages 🌐
 ======
-* Native: German, French
-* Full proficiency: English
+* Native: 🇫🇷, 🇩🇪
+* Full proficiency: 🇬🇧
 * Statistical Software
   * Advanced: Microsoft Office
   * Intermediate: R, LateX
