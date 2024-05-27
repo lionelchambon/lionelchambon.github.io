@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome \| Bienvenue \| Herzlich Willkommen"
+title: "Welcome &#124; Bienvenue &#124; Herzlich Willkommen"
 author_profile: true
 redirect_from: 
   - /about/
