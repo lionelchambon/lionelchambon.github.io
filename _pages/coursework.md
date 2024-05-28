@@ -10,7 +10,7 @@ author_profile: true
 This section includes past coursework and will be updated to include code samples during the upcoming academic year.
 
 ### Macroeconomics II *(Spring 2024)*
-This course, instructed by [Jean Barthélemy](https://sites.google.com/site/jeanbarthelemyeconomist/home), covered real business cycle theory and New Keynesian models. With my co-presentors Tanfei Li and Tianxiang Yuan, we presented [*Menu Costs and Phillips Curves*](https://www.jstor.org/stable/10.1086/512625) by Golosov and Lucas (JPE, 2007). This paper analyzes how a fixed cost of price changes, as opposed to Calvo repricing probabilities, affects impulse reponses in a standard New Keynesian Framework in which firms face aggregate money supply and idiosyncratic technology shocks. Our presentation was graded 16/20.
+This course, instructed by [Jean Barthélemy](https://sites.google.com/site/jeanbarthelemyeconomist/home), covered real business cycle theory and New Keynesian models. With my co-presentors Tanfei Li and Tianxiang Yuan, we presented [*Menu Costs and Phillips Curves*](https://www.jstor.org/stable/10.1086/512625) by Golosov and Lucas (JPE, 2007). This paper analyzes how a fixed cost of price changes, as opposed to Calvo repricing probabilities, affects impulse reponses in a standard New Keynesian Framework in which firms face aggregate money supply and idiosyncratic technology shocks. *Our presentation was graded 16/20.*
 
 You can find our presentation slides [here.](/files/Paper_4_YUAN_CHAMBON_LI.pdf)
 
