@@ -24,7 +24,8 @@ Work experience 💼
 Languages 🌐
 ======
 * Native: 🇫🇷, 🇩🇪
-* Full proficiency: 🇬🇧
+* Fluent: 🇬🇧
+* Intermediate: 🇸🇦, 🇹🇳
 * Statistical Software
   * Advanced: Microsoft Office
   * Intermediate: R, LateX
