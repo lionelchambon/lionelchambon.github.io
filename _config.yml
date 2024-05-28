@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "MRes Candidate in Economics"
   location         : "Paris"
-  employer         : "[Sciences Po]()https://www.sciencespo.fr/department-economics/en.html"
+  employer         : "[Sciences Po](https://www.sciencespo.fr/department-economics/en.html")
   uri              : # URL
   email            : "lionel.chambon@sciencespo.fr" 
 
