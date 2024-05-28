@@ -30,4 +30,4 @@ Languages 🌐
   * Intermediate: R, LateX
   * Elementary: Stata, Python, Julia
 
-You can find my full CV [here](/vitae/cv.pdf).
+You can find my full CV [here](https://lionelchambon.github.io/vitae/cv.pdf).
