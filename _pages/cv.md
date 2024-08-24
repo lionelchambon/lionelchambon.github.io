@@ -27,7 +27,7 @@ Languages 🌐
 * Fluent: 🇬🇧
 * Intermediate: 🇸🇦
 * Statistical Software
-  * Advanced: Microsoft Office, \LaTeX
+  * Advanced: Microsoft Office, \LaTeX\ 
   * Intermediate: R, Stata, EViews
   * Elementary: Julia
 
