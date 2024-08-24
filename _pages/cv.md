@@ -19,7 +19,7 @@ Work experience 💼
 ======
 * German Federal Reserve (Deutsche Bundesbank)
   * 2024 Summer Intern
-  * *More information will be available soon.*
+  * Research project on aggregate consumption dynamics in the Euro area
   
 Languages 🌐
 ======
