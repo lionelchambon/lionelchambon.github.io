@@ -25,10 +25,10 @@ Languages 🌐
 ======
 * Native: 🇫🇷, 🇩🇪
 * Fluent: 🇬🇧
-* Intermediate: 🇸🇦, 🇹🇳
+* Intermediate: 🇸🇦
 * Statistical Software
-  * Advanced: Microsoft Office
-  * Intermediate: R, LateX
-  * Elementary: Stata, Python, Julia
+  * Advanced: Microsoft Office, \LaTeX
+  * Intermediate: R, Stata, EViews
+  * Elementary: Julia
 
 You can find my full CV [here](https://lionelchambon.github.io/vitae/cv.pdf).
