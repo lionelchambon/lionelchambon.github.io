@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Empirical Work
+title: Empirical Projects
 permalink: /research/
 author_profile: true
 ---
