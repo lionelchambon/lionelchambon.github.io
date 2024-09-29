@@ -28,7 +28,7 @@ Languages 🌐
 * Intermediate: 🇸🇦
 * Statistical Software
   * Advanced: Microsoft Office, LaTeX
-  * Intermediate: R, Stata, EViews
-  * Elementary: Julia
+  * Intermediate: R, Julia, EViews
+  * Elementary: Stata
 
 You can find my full CV [here](https://lionelchambon.github.io/vitae/cv.pdf).
