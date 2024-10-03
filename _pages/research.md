@@ -12,7 +12,7 @@ As an intern at the DG Economics of the Bundesbank, I researched **current dynam
 
 To do so, we estimated an **error-correction model (ECM) and performed a principal component analysis (PCA) on sentiment indicator data** to include them as additional explanatory variables. We find **significant changes in the long-run relationship between consumption and its determinants,** driven by income and financial wealth variables.
 
-*More details will be available soon.*
+*A more detailed summary is available [here.](/files/Chambon_BundesbankProject_EN.pdf)*
 
 
 
