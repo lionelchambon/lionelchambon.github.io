@@ -19,7 +19,7 @@ Work experience 💼
 ======
 * German Federal Reserve (Deutsche Bundesbank)
   * 2024 Summer Intern
-  * \href{https://lionelchambon.github.io/files/Chambon_BundesbankProject_EN.pdf}{Research project} on aggregate consumption dynamics in the Euro area
+  * [Research project](https://lionelchambon.github.io/files/Chambon_BundesbankProject_EN.pdf) on aggregate consumption dynamics in the Euro area
   
 Languages 🌐
 ======
