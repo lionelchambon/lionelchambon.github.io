@@ -23,9 +23,9 @@ Work experience 💼
   
 Languages 🌐
 ======
-* Native: 🇫🇷, 🇩🇪
-* Fluent: 🇬🇧
-* Intermediate: 🇸🇦
+* Native: French, German
+* Fluent: English
+* Intermediate: Arabic
 * Statistical Software: R, Julia, EViews, Stata
 
 
