@@ -29,4 +29,4 @@ Languages 🌐
 * Statistical Software: R, Julia, EViews, Stata
 
 
-You can find my full CV [here](https://lionelchambon.github.io/CV/cv.pdf).
+You can find my full CV [here.](/files/Chambon_CV_Feb25.pdf).
