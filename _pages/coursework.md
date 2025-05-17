@@ -9,7 +9,12 @@ author_profile: true
 
 This section includes past coursework and will be updated during the academic year. Coding samples is available on my [Github page.](https://github.com/lionelchambon)
 
-### Computational Economics *(Fall 2025)*
+### Computational Economics *(Spring 2025)*
+In this course, instructed by [Clément Imbert](https://sites.google.com/site/clemimbert/), [Paulo Gugelmo Cavalheiro Dias](https://www.paulogcd.com) and I replicated parts of Carleton *et al.* (QJE, 2022) in the scope of a replication assignment using Julia.
+
+You can find our package documentation and GitHub repository [here.](https://github.com/Paulogcd/Replication_Carleton_et_al_2022.jl)
+
+### Computational Economics *(Fall 2024)*
 This course, instructed by [Florian Oswald](https://floswald.github.io), introduced us to quantitative methods in economics using Julia, with a focus on optimization and dynamic programming. For our term project, together with [Etienne Compérat](https://ecomperat.github.io) and [Paulo Gugelmo Cavalheiro Dias](https://www.paulogcd.com), we built a package to replicate Monge-Naranjo, Alexander, Juan M. Sánchez, and Raül Santaeulàlia-Llopis. “Natural Resources and Global Misallocation.” American Economic Journal: Macroeconomics 11, no. 2 (2019): 79–126. 
 
 You can find our package documentation and GitHub repository [here.](https://github.com/lionelchambon/CompEcon_Replication-Project)
