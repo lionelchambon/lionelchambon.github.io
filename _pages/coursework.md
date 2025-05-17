@@ -10,7 +10,7 @@ author_profile: true
 This section includes past coursework and will be updated during the academic year. Coding samples is available on my [Github page.](https://github.com/lionelchambon)
 
 ### Development Economics *(Spring 2025)*
-In this course, instructed by [Clément Imbert](https://sites.google.com/site/clemimbert/), [Paulo Gugelmo Cavalheiro Dias](https://www.paulogcd.com) and I replicated parts of Carleton *et al.* (QJE, 2022) in the scope of a replication assignment using Julia.
+In this course, instructed by [Clément Imbert](https://sites.google.com/site/clemimbert/), [Paulo Gugelmo Cavalheiro Dias](https://www.paulogcd.com) and I replicated parts of Carleton *et al.* (QJE, 2022), which estimates the global mortality impacts of climate change by analyzing age-specific temperature-mortality relationships. Despite facing significant computational challenges, we successfully replicated several figures using Julia.
 
 You can find our package documentation and GitHub repository [here.](https://github.com/Paulogcd/Replication_Carleton_et_al_2022.jl)
 
