@@ -17,10 +17,10 @@ Education 👨‍🎓
 
 Work experience 💼
 ======
-* German Central Bank (Deutsche Bundesbank)
-  * 2024 Summer Intern
-  * [Research project](https://lionelchambon.github.io/files/Chambon_BundesbankProject_EN.pdf) on aggregate consumption dynamics in the Euro area. We estimate an error-correction model to analyze changes in consumption trends before and after the COVID-19 pandemic and find stronger effects of income and financial wealth variables.
-  
+* Trainee, [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) (incoming, Fall 2025)
+* Research Assistant, [Paul Bouscasse](https://www.paul-bouscasse.com) (incoming, Summer 2025)
+* Deutsche Bundesbank (Summer 2024)
+
 Languages 🌐
 ======
 * Native: French, German
