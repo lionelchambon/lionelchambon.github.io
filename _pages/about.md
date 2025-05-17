@@ -9,8 +9,7 @@ redirect_from:
 
 👋 Nice to meet you! 
 
-📚 I am currently a  **second-year master's student** in Economics at the Sciences Po [School of Research](https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/).
+📚 I am currently a  **second-year master's student** in Economics at the Sciences Po [School of Research](https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/). My interests lie in macroeconomics, monetary policy and economic history.
 
-💡 My interests lie in **macroeconomics, monetary policy and economic history.** During the summer of 2024, I was an intern at the **German Federal Reserve** ([Deutsche Bundesbank](https://www.bundesbank.de)) researching current aggregate consumption dynamics in the Euro area.
+👨‍💻 I am an incoming trainee at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) and will work as a research asistant at the Sciences Po Department of Economics. Previously, I was an intern at Deutsche Bundesbank.
 
-This site is a work in progress and will be updated over the upcoming months. Feel free to reach out!
