@@ -10,7 +10,7 @@ author_profile: true
 ### Master's Thesis: Investigating Unemployment and Rearmament in the Nazi Economy *(Spring 2025)*
 **Abstract:** Can rearmament boost employment? I estimate the causal effect of military spending on unemployment in Nazi Germany between 1932 and 1936, using novel archival data on the German Luftwaffe. Exploiting cross-district variation in exposure to rearmament, I construct a regional measure of defense spending based on the location of Luftwaffe suppliers. Linking firms to employment districts, I estimate the impact of military procurement on local labor market outcomes. I find that unemployment per capita declined by approximately 3 percentage points in districts with at least one Luftwaffe supplier, relative to districts without. Estimating the effect year-by-year suggest even larger effects of up to 5 percentage points. Overall, the results suggest that Nazi government spending could account for up to 34\% of the total reduction in unemployment between 1932 and 1936, approximately one third of which can be attributed to rearmament.
 
-[Paper](/files/chambon_mt_2025) \| Slides *(coming soon)*
+[Paper](/files/chambon_mt_2025.pdf) \| Slides *(coming soon)*
 
 ### Bundesbank Project: Investigating Private Consumption in the Euro Area *(Summer 2024)*
 As an intern at the DG Economics of the Bundesbank, I researched **current dynamics of private consumption in the Euro area.** Two main questions were of interest: first, whether the *long run* relationship between private consumption and its determinants had changed since the COVID-19 pandemic, and second, how short-run consumption fluctuations since 2020 could be explained. 
