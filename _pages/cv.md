@@ -19,7 +19,7 @@ Work experience 💼
 ======
 * Trainee, [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) (incoming, Fall 2025)
 * Research Assistant, [Paul Bouscasse](https://www.paul-bouscasse.com) (incoming, Summer 2025)
-* Deutsche Bundesbank (Summer 2024)
+* Intern, [Deutsche Bundesbank](https://www.bundesbank.de/en) (Summer 2024)
 
 Languages 🌐
 ======
