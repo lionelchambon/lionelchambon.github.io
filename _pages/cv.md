@@ -17,7 +17,7 @@ Education 👨‍🎓
 
 Work experience 💼
 ======
-* Trainee, [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) (incoming, Fall 2025)
+* Trainee, [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) (since Fall 2025)
 * Research Assistant, [Paul Bouscasse](https://www.paul-bouscasse.com) (Summer 2025)
 * Intern, [Deutsche Bundesbank](https://www.bundesbank.de/en) (Summer 2024)
 
@@ -29,4 +29,4 @@ Languages 🌐
 * Statistical Software: R, Julia, EViews, Stata
 
 
-You can find my full CV [here.](https://lionelchambon.github.io/files/CV_Chambon_Jul25.pdf)
+You can find my full CV [here.](https://lionelchambon.github.io/files/CV_Chambon_Sep25.pdf)
