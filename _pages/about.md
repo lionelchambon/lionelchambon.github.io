@@ -13,5 +13,5 @@ redirect_from:
 
 👨‍💻 Currently, I am a trainee at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). Previously, I worked as research assistant at the Sciences Po Department of Economics and was an intern at Deutsche Bundesbank.
 
-⚠️ This website and all its contents are entirely perssonal, and do not necessarily reflect the views of the ECB, the Eurosystem or its staff.
+⚠️ This website and all its contents are entirely personal, and do not necessarily reflect the views of the ECB, the Eurosystem or its staff.
 
