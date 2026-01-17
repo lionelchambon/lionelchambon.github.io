@@ -19,7 +19,7 @@ Updated [here.](/files/chambon_2025_260525.pdf)
 
 [Original Version](/files/chambon_mt_2025.pdf) (submitted May 16, 2025) \| [Slides](/files/chambon_mt25_slides.pdf) (defended May 28, 2025)  
 
-**Bundesbank Internship Project** As an intern at the DG Economics of the Bundesbank, I researched current dynamics of private consumption in the Euro area. To do so, I estimated an error-correction model (ECM) using macro time-series and performed a principal component analysis (PCA) on conssumer survey. I find significant changes in the long-run relationship between consumption and its determinants, driven by income and financial wealth variables.
+**Bundesbank Internship Project** As an intern at the DG Economics of the Bundesbank, I researched current dynamics of private consumption in the Euro area. To do so, I estimated an error-correction model (ECM) using macro time-series and performed a principal component analysis (PCA) on consumer survey data. I find significant changes in the long-run relationship between consumption and its determinants, driven by income and financial wealth variables.
 
 [Summary](/files/Chambon_BundesbankProject_EN.pdf)
 
