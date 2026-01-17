@@ -9,7 +9,7 @@ author_profile: true
 
 ### Working Papers
 
-*Clear for Takeoff?* Investigating the Response of Unemployment to Military Spending in the Nazi Economy Using Evidence from the Luftwaffe
+*Clear for Takeoff?* Investigating Military Spending and Unemployment in the Nazi Economy Using Evidence from the Luftwaffe
 
 Updated [here.](/files/chambon_2025_260525.pdf)
 
