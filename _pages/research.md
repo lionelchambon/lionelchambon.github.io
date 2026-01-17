@@ -11,7 +11,7 @@ author_profile: true
 
 *Clear for Takeoff?* Investigating Military Spending and Unemployment in the Nazi Economy Using Evidence from the Luftwaffe
 
-Updated [here.](/files/chambon_2025_260525.pdf)
+Updated [here.](/files/chambon_luftwaffe_jan26.pdf)
 
 ### Unpublished Works
 
