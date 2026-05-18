@@ -9,9 +9,9 @@ author_profile: true
 
 ### Working Papers
 
-*Clear for Takeoff?* Investigating Military Spending and Unemployment in the Nazi Economy Using Evidence from the Luftwaffe
+*Bombers and Bread:* How Rearmament Accelerated Employment Recovery in Nazi Germany
 
-Updated [here.](/files/chambon_luftwaffe_jan26.pdf)
+Updated [here.](/files/chambon_luftwaffe_may26.pdf)
 
 ### Unpublished Works
 
