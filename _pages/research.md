@@ -10,7 +10,7 @@ author_profile: true
 ### Working Papers
 
 The economic effects of rearmament: evidence from Nazi Germany. 
-> [*Kiel Working Paper*](https://www.kielinstitut.de/publications/the-economic-effects-of-rearmament-evidence-from-nazi-germany-19829/)
+&emsp;&emsp;[*Kiel Working Paper*](https://www.kielinstitut.de/publications/the-economic-effects-of-rearmament-evidence-from-nazi-germany-19829/)
 
 ### Unpublished Works
 
