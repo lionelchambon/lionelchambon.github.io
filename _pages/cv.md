@@ -17,7 +17,8 @@ Education 👨‍🎓
 
 Work experience 💼
 ======
-* Trainee, [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) (since Fall 2025)
+* Junior Researcher, [Kiel Institute](https://www.kielinstitut.de/)
+* Trainee, [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) (2025--2026)
 * Research Assistant, [Paul Bouscasse](https://www.paul-bouscasse.com) (Summer 2025)
 * Intern, [Deutsche Bundesbank](https://www.bundesbank.de/en) (Summer 2024)
 
